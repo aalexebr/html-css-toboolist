@@ -64,9 +64,11 @@ h1{
     background-color: #47ADF1;
 }
 #add-section{
-    border-color: black;
-    color: black;
+    border-color: #DDE0E3;
+    border-style: solid;
+    color: #DDE0E3;
     background-color: white;
+    padding: 0 0 0 0;
 }
 
 
