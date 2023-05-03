@@ -35,3 +35,21 @@ h1{
     width: 75%;
     border-radius: 5px;
 }
+.toolbar{
+    margin-left: 10%;
+    line-height: 30px;
+    margin-bottom: 3px;
+}
+input, button{
+    
+}
+button{
+    background-color: rgb(14, 112, 112);
+    color: white;
+    border-radius: 5px;
+    padding: 0;
+    border: none;  
+}
+input{
+
+}
