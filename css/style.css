@@ -66,10 +66,33 @@ h1{
     background-color: #47ADF1;
 }
 #add-section{
-    border-color: #DDE0E3;
-    border-style: solid;
+    border: 1px solid #DDE0E3;
     color: #DDE0E3;
     background-color: white;
+
+}
+.button{
+    width: 60px;
+    height: 25px;
+    font-size: 0.55em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 7px;
+    background-color: #47ADF1;
+    border-collapse: collapse;
+    color: white;
+
+}
+
+.addtask{
+    width: 60px;
+    height: 25px;
+    font-size: 0.55em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 7px;
+    border: 1px solid #DDE0E3;
+    color: #DDE0E3;
 
 }
 
