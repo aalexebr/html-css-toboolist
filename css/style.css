@@ -49,37 +49,18 @@ h1{
     vertical-align: middle;
 }
 .toolbar-items{
-    height: 25px;
-    line-height: 25px;
-    display: inline-block;
-    border-radius: 5px;
-    color: white;
-    font-size: 0.55em;
-    text-align: center;
-    padding-left: 7px;
-    padding-right: 7px;
-    font-weight: bold;
-    margin-bottom: 4px;
-    vertical-align: middle;
-}
-#add-task{
-    background-color: #47ADF1;
-}
-#add-section{
-    border: 1px solid #DDE0E3;
-    color: #DDE0E3;
-    background-color: white;
-
-}
-.button{
     width: 60px;
     height: 25px;
     font-size: 0.55em;
     font-weight: bold;
     text-align: center;
-    border-radius: 7px;
+    border-radius: 5px;
+}
+
+.button{
+
     background-color: #47ADF1;
-    border-collapse: collapse;
+    border: none;
     color: white;
 
 }
@@ -90,9 +71,9 @@ h1{
     font-size: 0.55em;
     font-weight: bold;
     text-align: center;
-    border-radius: 7px;
+    border-radius: 5px;
     border: 1px solid #DDE0E3;
-    color: #DDE0E3;
+    color: #cbccce;
 
 }
 
