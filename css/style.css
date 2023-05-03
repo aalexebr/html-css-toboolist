@@ -7,3 +7,31 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+
+body{
+    background-color: rgb(211, 211, 204);
+    
+}
+.background-white{
+    background-color: white;
+}
+/*HEADER*/
+header{
+    padding: 15px;
+    margin-bottom: 50px;
+}
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+#logo{
+    vertical-align: middle;
+}
+
+/*MAIN */
+
+.container{
+    margin: auto;
+    width: 75%;
+    border-radius: 5px;
+}
