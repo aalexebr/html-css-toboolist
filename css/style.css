@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: rgb(211, 211, 204);
+    background-color: rgb(244, 244, 221);
     
 }
 .background-white{
@@ -47,14 +47,24 @@ button{
     padding: 0;
     border: none;  
 }
+.toolbar-container{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
 
 /*MAIN CONTAINER*/
 
 .main-container{
     padding-left: 8%;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
 }
 h3{
     padding-top: 18px;
+    padding-bottom: 10px;
+}
+.list-item{
+    padding: 5px;
 }
 /*BUTTONS GENERAL*/
 .done{
@@ -89,4 +99,16 @@ h3{
     padding-right: 4px;
     box-sizing: content-box;
     margin-left: 8px;
+}
+.editorial{
+    background-color: blue;
+}
+.goals{
+    background-color: purple;
+}
+.recruiting{
+    background-color: green;
+}
+.mobile{
+    background-color: orange;
 }
